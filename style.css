@@ -1,0 +1,198 @@
+body {
+    margin: 0;
+    background-color: rgb(179, 219, 189);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: Center;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+article {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(179, 219, 189);
+    overflow: hidden;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+main {
+    background-color: white;
+    overflow: hidden;
+    padding-bottom: 32px;
+    margin-top: 30px;
+}
+
+a {
+    color: rgb(50, 63, 53);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+td {
+    border: 1px solid rgb(158, 202, 169);
+    padding: 4px;
+}
+
+tr:nth-child(2n) td {
+    background-color: rgb(226, 240, 229)
+}
+
+a:hover, a:focus {
+    font-weight: bold;
+}
+
+a:active {
+    font-weight: bold;
+}
+
+.groupe-de-texte {
+    border-left: 4px solid rgb(143, 163, 148);
+    padding-left: 16px;
+}
+
+.belle-image {
+    height: 300px;
+    background-color: rgb(26, 53, 53);
+    background-image: url("https://picsum.photos/1000/300");
+    background-size: cover;
+    background-position: center;
+}
+
+.petit-separateur-joli {
+    background-color: rgb(179, 219, 189);
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: -32px 0 0 rgb(198, 235, 207), 32px 0 0 rgb(158, 202, 169);
+}
+
+.groupe-de-texte li {
+    color: rgb(99, 99, 99);
+}
+
+.groupe-de-texte ul {
+    background-color: rgb(179, 219, 189);
+    width: fit-content;
+    padding-right: 24px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-radius: 32px;
+}
+
+.photo-de-profil {
+    border-radius: 50%;
+    float: left;
+    margin-right: 16px;
+}
+
+.enfant-qui-flotte {
+    overflow: hidden;
+}
+
+.enfant-qui-flotte::first-letter {
+    /*float: left;*/
+    font-size: 36px;
+    font-weight: bold;
+    padding-right: 5px;
+    line-height: 1;
+}
+
+.text-justify {
+    text-align: justify;
+    /*text-justify: inter-word;*/
+}
+
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+    margin-top: auto;
+    padding-left: 0px;
+}
+
+.tag {
+    background: blue;
+    border-radius: .25rem;
+    display: inline-block;
+    padding: .25rem .5rem;
+    transform: skewX(-25deg);
+    transition: .2s;
+    color: whitesmoke;
+}
+
+.span {
+    display: inline-block;
+    transform: skewX(25deg);
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.square-icon-link {
+    display: inline-block;
+    margin: 0.25rem;
+    padding: 1rem;
+    transition: background-color .2s, color .2s;
+}
+
+.icon {
+    fill: inherit;
+    height: 1.5rem;
+    vertical-align: bottom;
+    width: 1.5rem;
+}
+
+/* The navigation bar */
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    /* Set the navbar to fixed position */
+    top: 0;
+    /* Position the navbar at the top of the page */
+    width: 100%;
+    /* Full width */
+}
+
+/* Links inside the navbar */
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change background on mouse-over */
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}

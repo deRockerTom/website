@@ -1,0 +1,47 @@
+{
+  "config": {
+    "default": "en"
+  },
+  "language": {
+    "en": {
+      "#home": "Home",
+      "#whoami": "Who am I ?",
+      "#whoamitxt1": "Hi ! My name is Tom de Rocker, I am 20-year-old French software developper. I'm currently learning Computer Science at ENSEEIHT, France, and I wish to major in Software architecture.",
+      "#whoamitxt2": "I discovered programming when I arrived in preparatory class and I haven't been able to stop since. So I then pursued this passion by entering an engineering school specializing in computer science where I can study proggramming theory",
+      "#whoamitxt3": "I also had the opportunity in this school to integrate the net7 computer association, which allows me to learn certain concepts such as front development in parallel with studies.",
+      "#whoamitxt4": "If you want to know more about my studies and my skills, you can have a look at . <a href=\"pdf/CV_Tom_DE_ROCKER.pdf\">my resume.</a>",
+      "#formation": "Formation",
+      "#enseeihttxt": "Computer engineering school, specializing in software systems",
+      "#java": "Java project (game development)",
+      "#ada": "ADA project (development of a pagerank algorithm)",
+      "#corneille": "Corneille Rouen High School",
+      "#corneilletxt": "Preparatory class MP *",
+      "#skills": "Skills",
+      "#skillstxt": "Here are the skills I have accumulated over my years of coding.",
+      "#email": "My e-mail",
+      "#email2": "<a href=\"mailto:tom.derockerpro@gmail.com\" title=\"My e-mail\" aria-label=\"My e-mail\" class=\"square-icon-link\">\n<svg xlmns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"icon\">\n<title id=email>My e-mail</title>\n<path d=\"m12 12.713l-11.985-9.713h23.97l-11.985 9.713zm0 2.574l-12-9.725v15.438h24v-15.438l-12 9.725z\"></path>\n</svg>\n</a>",
+      "#linkedin": "My LinkedIn",
+      "#github": "My GitHub"
+    },
+    "fr": {
+      "#home": "Accueil",
+      "#whoami": "Qui suis-je ?",
+      "#whoamitxt1": "Salut ! Je m'appelle Tom de Rocker, je suis développeur logiciel et j'ai 20 ans. Je suis un cursus de Sciences du numérique à l'ENSEEIHT, une école d'ingénieur française et je compte me spécialiser en architecture logicielle.",
+      "#whoamitxt2": "J'ai découvert la programmation lorsque je suis arrivé en classe préparatoire et depuis je n'ai su m'arrêter. J'ai donc ensuite poursuivi cette passion en entrant dans une école d'ingénieurs spécialisée dans l'informatique où je peux étudier la théorie de la programmation.",
+      "#whoamitxt3": "J'ai eu également l'opportunité dans cette école d'intégrée l'association d'informatique net7, ce qui me permet d'apprendre certaines notions telles que le développement front en parallèle des études.",
+      "#whoamitxt4": "Si vous voulez en savoir plus sur mes études et mes compétences, vous pouvez consulter <a href=\"pdf/CV_Tom_DE_ROCKER.pdf\">mon CV.</a>",
+      "#formation": "Formation",
+      "#enseeihttxt": "Ecole d'ingénieur en informatique, spécialitée systèmes logiciels",
+      "#java": "Projet Java (développement d'un jeu)",
+      "#ada": "Projet ADA (développement d'un algorithme de pagerank)",
+      "#corneille": "Lycée Corneille Rouen",
+      "#corneilletxt": "Classe préparatoire MP*",
+      "#skills": "Compétences",
+      "#skillstxt": "Voici les compétences que j'ai accumulées au cours de mes années de code.",
+      "#email": "Mon e-mail",
+      "#email2": "<a href=\"mailto:tom.derockerpro@gmail.com\" title=\"Mon e-mail\" aria-label=\"Mon e-mail\" class=\"square-icon-link\">\n<svg xlmns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"icon\">\n<title id=email>Mon e-mail</title>\n<path d=\"m12 12.713l-11.985-9.713h23.97l-11.985 9.713zm0 2.574l-12-9.725v15.438h24v-15.438l-12 9.725z\"></path>\n</svg>\n</a>",
+      "#linkedin": "Mon LinkedIn",
+      "#github": "Mon GitHub"
+    }
+  }
+}
