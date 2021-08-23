@@ -4,6 +4,7 @@
   },
   "language": {
     "en": {
+      "title": "About me · Tom DE ROCKER",
       "#home": "Home",
       "#whoami": "Who am I ?",
       "#whoamitxt1": "Hi ! My name is Tom de Rocker, I am 20-year-old French software developper. I'm currently learning Computer Science at ENSEEIHT, France, and I wish to major in Software architecture.",
@@ -19,11 +20,11 @@
       "#skills": "Skills",
       "#skillstxt": "Here are the skills I have accumulated over my years of coding.",
       "#email": "My e-mail",
-      "#email2": "<a href=\"mailto:tom.derockerpro@gmail.com\" title=\"My e-mail\" aria-label=\"My e-mail\" class=\"square-icon-link\">\n<svg xlmns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"icon\">\n<title id=email>My e-mail</title>\n<path d=\"m12 12.713l-11.985-9.713h23.97l-11.985 9.713zm0 2.574l-12-9.725v15.438h24v-15.438l-12 9.725z\"></path>\n</svg>\n</a>",
       "#linkedin": "My LinkedIn",
       "#github": "My GitHub"
     },
     "fr": {
+      "title": "À propos de moi · Tom DE ROCKER",
       "#home": "Accueil",
       "#whoami": "Qui suis-je ?",
       "#whoamitxt1": "Salut ! Je m'appelle Tom de Rocker, je suis développeur logiciel et j'ai 20 ans. Je suis un cursus de Sciences du numérique à l'ENSEEIHT, une école d'ingénieur française et je compte me spécialiser en architecture logicielle.",
@@ -39,7 +40,6 @@
       "#skills": "Compétences",
       "#skillstxt": "Voici les compétences que j'ai accumulées au cours de mes années de code.",
       "#email": "Mon e-mail",
-      "#email2": "<a href=\"mailto:tom.derockerpro@gmail.com\" title=\"Mon e-mail\" aria-label=\"Mon e-mail\" class=\"square-icon-link\">\n<svg xlmns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" class=\"icon\">\n<title id=email>Mon e-mail</title>\n<path d=\"m12 12.713l-11.985-9.713h23.97l-11.985 9.713zm0 2.574l-12-9.725v15.438h24v-15.438l-12 9.725z\"></path>\n</svg>\n</a>",
       "#linkedin": "Mon LinkedIn",
       "#github": "Mon GitHub"
     }
