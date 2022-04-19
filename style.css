@@ -70,7 +70,7 @@ a:active {
 .belle-image {
     height: 300px;
     background-color: rgb(26, 53, 53);
-    background-image: url("https://picsum.photos/1000/300");
+    background-image: url("img/banner.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -102,6 +102,8 @@ a:active {
 
 .photo-de-profil {
     border-radius: 50%;
+    width: 200px;
+    height: 200px;
     float: left;
     margin-right: 16px;
 }
